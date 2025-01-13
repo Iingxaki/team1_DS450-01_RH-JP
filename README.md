@@ -1,4 +1,4 @@
-# team1_DS450-01_RH-JP
+# team 1 for DS450-01
 
 ## Team Members:
 - Radjamin Hukom
